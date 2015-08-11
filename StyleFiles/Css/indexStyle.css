@@ -145,14 +145,15 @@ body {
     .rob-research h1 {
         font-size: 56px;
         width: 300px;
-        margin-left: 20%;
+        margin-left: 10%;
     }
-    .rob-research p {
-        margin-left: 20%;
+    .rob-research p{
+        margin-left: 10%;
         width: 300px;
     }
     .headshot {
         height: 200px;
+        margin-bottom: 35px;
     }
     .who-am-i {
         width: 300px;
